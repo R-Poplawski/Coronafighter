@@ -12,3 +12,6 @@ It uses the accelerometer to control the ship and uses a local SQLite database t
 <img width="300" alt="coronafighter-7" src="https://i.imgur.com/ujZYPdU.jpg"></img>
 <img width="300" alt="coronafighter-8" src="https://i.imgur.com/aQxMwEg.jpg"></img>
 <img width="300" alt="coronafighter-9" src="https://i.imgur.com/GoGW4TN.jpg"></img>
+
+
+[Link to video](https://drive.google.com/file/d/19-CDwZGxfvgVPl6GLBSsSI3z45nsBLNn/view)
